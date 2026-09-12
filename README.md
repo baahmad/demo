@@ -1,6 +1,6 @@
 # Internal Tooling Platform
 
-A demonstration of custom internal tools built with Devin, showcasing capabilities that replace Microsoft Power Apps with full customization, no licensing constraints, and enterprise-grade features.
+A demonstration of custom internal tools built with Devin.
 
 ## Prerequisites
 
