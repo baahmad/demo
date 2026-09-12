@@ -1,0 +1,16 @@
+First Name,Last Name,Email,Date of Birth,Country,Document Type,Risk Score
+john smith,Smith,john.smith@example.com,3/15/1985,USA,passport,25
+Maria Garcia,GARCIA,maria.garcia@example.com,22-07-1990,Spain,DRIVERS_LICENSE,35
+Tanaka Yuki,yuki.tanaka@example.com,1988-11-08,Japan,national_id,20
+emma müller,Emma.Mueller@example.com,5/30/1992,Germany,Passport,30
+James Wilson,wilson.james@example.com,12/03/1987,UK,Drivers License,45
+Chen Wei,wei.chen@example.com,1992-02-18,China,National ID,28
+Sophie Dubois,sophie.dubois@example.com,25/06/1989,France,PASSPORT,33
+Alex Kim,alex.kim@example.com,4/14/1993,South Korea,national_id,22
+Priya Sharma,PRIYA.SHARMA@example.com,08-19-1986,India,passport,40
+Robert Brown,robert.brown@example.com,12/3/1984,Canada,drivers_license,27
+Anna Kowalska,anna.kowalska@example.com,01/27/1990,Poland,National ID,36
+Marco Ross,marco.ross@example.com,10/05/1988,Italy,passport,29
+Lisa Andersen,lisa.andersen@example.com,3/21/1992,Denmark,DRIVERS LICENSE,24
+David Johnson,DAVID.JOHNSON@example.com,7/16/1985,Australia,passport,38
+Sarah Connor,sarah.connor@example.com,11-11-1989,Ireland,national_id,31
